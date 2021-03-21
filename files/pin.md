@@ -1,5 +1,5 @@
 ![portada](/assets/english_devs.png)
-[Index |](/readme.md) [Previous |](files/introductions.md) [Next](files/resources.md)
+[Index |](/readme.md) [Previous |](/files/introductions.md) [Next](/files/resources.md)
 
 <h1 align= "center">
     Pins
@@ -18,5 +18,5 @@
 
 ---
 
-[Index |](/readme.md) [Previous |](files/introductions.md) [Next](files/resources.md)
+[Index |](/readme.md) [Previous |](/files/introductions.md) [Next](/files/resources.md)
 

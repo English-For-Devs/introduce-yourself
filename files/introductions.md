@@ -1,6 +1,6 @@
 ![portada](/assets/english_devs.png)
 
-[Index |](/readme.md) [Next](files/pin.md)
+[Index |](/readme.md) [Next](/files/pin.md)
 
 <h1 align= "center">
     Introduce yourself
@@ -108,4 +108,4 @@ Taking the time to `practice` your answer will give you the opportunity to share
 **Thanks to :sparkles:**In English With Love**:sparkles:, [here](https://www.inenglishwithlove.com/blog/introduce-yourself-in-english) you can find more to keep learnig.*
 
 ---
-[Index |](/readme.md) [Next](files/pin.md)
+[Index |](/readme.md) [Next](/files/pin.md)

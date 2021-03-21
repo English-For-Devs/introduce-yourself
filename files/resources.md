@@ -1,5 +1,5 @@
 ![portada](/assets/english_devs.png)
-[Index |](/readme.md) [Previous](files/pin.md)
+[Index |](/readme.md) [Previous](/files/pin.md)
 
 <h1 align= "center">
     Resources
@@ -16,4 +16,4 @@ This is a little extract from this article [*How can I introduce myself in engli
 
 
 ---
-[Index |](/readme.md) [Previous](files/pin.md)
+[Index |](/readme.md) [Previous](/files/pin.md)
