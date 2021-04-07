@@ -1,11 +1,13 @@
-![portada](/assets/english_devs.png)
+# :statue_of_liberty: English for Developers
+
 [Index |](/readme.md) [Previous |](/files/introductions.md) [Next](/files/resources.md)
 
-<h1 align= "center">
-    Pins
-</h1>
 
-## Table of content
+
+## :speech_balloon: Introduce yourself - Pins 
+
+
+### :book: Table of content
 
 
 - [Self Introduction](#pin)

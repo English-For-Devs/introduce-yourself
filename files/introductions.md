@@ -1,12 +1,12 @@
-![portada](/assets/english_devs.png)
+# :statue_of_liberty: English for Developers
 
 [Index |](/readme.md) [Next](/files/pin.md)
 
-<h1 align= "center">
-    Introduce yourself
-</h1>
+## :speech_balloon: Introduce yourself
 
-## Table of content
+
+
+### :book: Table of content
 
 - [Tips to remember](#tips-to-remember)
 - [How to introduce yourself in a class](#how-to-introduce-yourself-in-a-class)
@@ -16,7 +16,7 @@
 
 ---
 
-### Tips to remember:
+#### :small_blue_diamond: Tips to remember:
 
 Use the `present simple` for general facts about your life and routines.
 
@@ -26,7 +26,7 @@ But if you mention a finished time period (last year, in 2010, etc.) use the `si
 
 
 
-### How to introduce yourself in a class
+#### :small_blue_diamond: How to introduce yourself in a class
 
 Self-introductions in a class are meant to be `brief and conversational`. Keep this checklist in mind: 
 
@@ -49,7 +49,7 @@ Here’s another example:
 >*“My name’s Lucia and I’m from Spain. I was born in the south of Spain but I live in Barcelona. I work as a translator, and I don’t have much time for hobbies these days. But in the future, I’d like to try yoga. I’m taking this class because I want to improve my speaking in English.”*
 
 
-### How to introduce yourself in casual situations
+#### :small_blue_diamond: How to introduce yourself in casual situations
 
 Small talk is the perfect example to illustrate this point The best advice is to `keep your introductions short and light`. You’ll also want to give the other person room for follow-up questions. 
 
@@ -63,7 +63,7 @@ Here are some examples:
 
 >*Hi Amy. I heard it’s your first day so I thought I could reach out and introduce myself. We haven’t officially met but I’ll be working with you on this project.*
 
-### How to introduce yourself in a meeting at work
+#### :small_blue_diamond: How to introduce yourself in a meeting at work
 
 Work meetings are usually planned ahead, but let’s not overlook the importance of the introduction. 
 
@@ -83,7 +83,7 @@ Here’s an example:
 
 NOTE: The tone will be dependent on the company’s culture. Tech companies usually encourage a more relaxed and casual style. This gives the freedom to use informal expressions that may be frowned upon in more conservative settings.
 
-### How to introduce yourself in an interview
+#### :small_blue_diamond: How to introduce yourself in an interview
 
 The good news is that designing a well-crafted and compelling introduction in English will pave the way and give you the confidence and ease you need to make a good impression during your interview. 
 

@@ -1,15 +1,10 @@
-![portada](assets/english_devs.png)
+# :statue_of_liberty: English for Developers
 
-<h1 align= "center">
-    Introduce yourself
-</h1>
+## :speech_balloon: Introduce yourself
 
-## Table of content
+
+### :book: Table of content
 
 - [Introductions](files/introductions.md)
 - [Pins](files/pin.md)
 - [Resources](files/resources.md)
-
-
-
-
