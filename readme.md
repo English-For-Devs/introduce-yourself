@@ -1,6 +1,6 @@
 # :statue_of_liberty: English for Developers
 
-## :speech_balloon: Introduce yourself
+## Introduce yourself
 
 
 ### :book: Table of content

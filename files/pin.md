@@ -4,7 +4,7 @@
 
 
 
-## :speech_balloon: Introduce yourself - Pins 
+## Introduce yourself - Pins 
 
 
 ### :book: Table of content
