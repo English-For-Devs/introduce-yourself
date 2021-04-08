@@ -11,9 +11,9 @@
 - [Blog "*In english with love*"](https://www.inenglishwithlove.com/blog/introduce-yourself-in-english)
 - [Youglish practice your pronunciation](https://youglish.com/)
 
+---
 
-
-#### :small_orange_diamond: Blog "*In english with love*"
+### :small_orange_diamond: Blog "*In english with love*"
 This is a little extract from this article [*How can I introduce myself in english?*](https://www.inenglishwithlove.com/blog/introduce-yourself-in-english). 
 
 
